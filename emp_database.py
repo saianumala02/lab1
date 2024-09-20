@@ -5,3 +5,6 @@ database={
 }
 for i in database['salary']:
     print(i)
+
+#creates a database 
+#retrives salaries from it
